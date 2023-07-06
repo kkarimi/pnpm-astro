@@ -1,0 +1,22 @@
+{
+  "name": "astro-app",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "astro": "^2.7.4",
+    "react": "^18.2.0",
+    "shared-ui": "workspace:*"
+  },
+  "devDependencies": {
+    "@astrojs/react": "^2.2.1",
+    "react-dom": "^18.2.0"
+
+  }
+}
